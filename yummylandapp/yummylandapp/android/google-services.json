@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731478900351",
+    "project_id": "yummyland-2224",
+    "storage_bucket": "yummyland-2224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731478900351:android:8756a38f334e369d20c94a",
+        "android_client_info": {
+          "package_name": "com.example.yummylandapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5t4hNtu7VDgug9wAVyh3m12tUzhOfbw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
