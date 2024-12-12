@@ -1,8 +1,11 @@
-# yummylandapp_08
+# "오늘 뭐 먹지?" 음식 메뉴 추천 앱 개발 프로젝트
 
 A new Flutter project.
 
-## Getting Started
+## 한양여자대학교
+## 빅데이터과 
+### 팀명: 푸드메이트팀
+### 앱명: YUMMY LAND
 
 This project is a starting point for a Flutter application.
 
